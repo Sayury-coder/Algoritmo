@@ -67,7 +67,7 @@ public class Convertidor {
 			
 			 potencia.toUpperCase();
 			 //System.out.println(potencia);
-			 System.out.println("La subcadena es: "+SubCadenaB+" ontenida de: "+sCadena);
+			 //System.out.println("La subcadena es: "+SubCadenaB+" ontenida de: "+sCadena);
 			 potencia.length();
 			 
 			 for(int i=potencia.length()-1; i>=0;i--) {
